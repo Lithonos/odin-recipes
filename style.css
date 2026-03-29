@@ -1,0 +1,72 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(250, 232, 217);
+}
+
+html{
+    box-sizing: border-box;
+}
+
+h1{
+    box-sizing: inherit;
+    width: 350px;
+    background-color: white;
+    text-align: center;
+    font-size: 48px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 10px auto;
+}
+
+.header-recipe{
+    box-sizing: inherit;
+    font-size: 24px;
+    border: 2px dotted black;
+    margin: 10px auto;
+}
+
+h2{
+    box-sizing: inherit;
+    background-color: yellow;
+    font-size: 18px;
+    width: 100px;
+    padding: 5px;
+    margin: 10px 0px;
+    text-align: center;
+    font-style: italic;
+    border: 1px solid black;
+}
+
+.links{
+    box-sizing: inherit;
+    font-size: 24px;
+    margin: auto;
+}
+
+button{
+    display: block;
+    box-sizing: inherit;
+    font-size: 16px;
+    background-color: gainsboro;
+    padding: 4px 8px;
+}
+
+img{
+    display: block;
+    box-sizing: inherit;
+    border: 1px solid black;
+    margin: auto;
+}
+
+p{
+    box-sizing: inherit;
+    padding-left: 20px;
+}
+
+ul{
+    font-weight: bold;
+}
+
+ol li{
+    font-family: Arial, Helvetica, sans-serif;
+}
